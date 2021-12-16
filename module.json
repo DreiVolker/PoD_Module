@@ -81,7 +81,7 @@
       "module": "Pact_of_Dragons_ModuleS"
     }
   ],
-  "url": "https://github.com/DreiVolker/PoD_Module.git",
-  "manifest": "https://github.com/DreiVolker/PoD_Module/releases/download/0.3.0/module.json",
-  "download": "https://github.com/DreiVolker/PoD_Module/releases/download/0.3.0/Pact_of_Dragons_Module.zip"
+  "url": "https://github.com/DreiVolker/Pod_Publico",
+  "manifest": "https://github.com/DreiVolker/Pod_Publico/releases/download/0.3.0/module.json",
+  "download": "https://github.com/DreiVolker/Pod_Publico/releases/download/0.3.0/Pact_of_Dragons_Module.zip"
  }
