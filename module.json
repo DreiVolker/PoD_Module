@@ -1,0 +1,87 @@
+{   
+   "name": "Pact_of_Dragons_Module",   
+   "title": "Modulo: Pact Of Dragons",   
+   "description": "Módulo criado para ajudar a comunidade do Pact of Dragons",   
+   "author": "DreiVolker",
+   "version": "1.0.0",
+   "minimumCoreVersion": "",
+   "compatibleCoreVersion": "",
+   "scripts": [
+      "init.js"
+   ],
+   "packs": [
+    {
+      "name": "scenes",
+      "label": "Shared Scenes",
+      "path": "packs/scenes.db",
+      "entity": "Scene",
+      "module": "Pact_of_Dragons_Module"
+    },
+    {
+      "name": "actors",
+      "label": "Shared Actors",
+      "path": "packs/actors.db",
+      "entity": "Actor",
+      "module": "Pact_of_Dragons_Module"
+    },
+    {
+      "name": "items",
+      "label": "Shared Items",
+      "path": "packs/items.db",
+      "entity": "Item",
+      "module": "Pact_of_Dragons_Module"
+    },
+    {
+      "name": "Raças",
+      "label": "Raças Pact of Dragons",
+      "path": "packs/races.db",
+      "entity": "Item",
+      "module": "Pact_of_Dragons_Module"
+    },
+    {
+      "name": "Classes",
+      "label": "Classes",
+      "path": "packs/class.db",
+      "entity": "Item",
+      "module": "Pact_of_Dragons_Module"
+    },
+    {
+      "name": "Característica de Classes",
+      "label": "Característica de Classes",
+      "path": "packs/classfeature.db",
+      "entity": "Item",
+      "module": "Pact_of_Dragons_Module"
+    },
+    {
+      "name": "journalentries",
+      "label": "Shared Journal Entries",
+      "path": "packs/journalentries.db",
+      "entity": "JournalEntry",
+      "module": "Pact_of_Dragons_Module"
+    },
+    {
+      "name": "rolltables",
+      "label": "Shared Roll Tables",
+      "path": "packs/rolltables.db",
+      "entity": "RollTable",
+      "module": "Pact_of_Dragons_Module"
+    },
+    {
+      "name": "playlists",
+      "label": "Shared Playlists",
+      "path": "packs/playlists.db",
+      "entity": "Playlist",
+      "module": "Pact_of_Dragons_Module"
+    },
+    {
+      "name": "macros",
+      "label": "Shared Macros",
+      "path": "packs/macros.db",
+      "entity": "Macro",
+      "module": "Pact_of_Dragons_ModuleS"
+    }
+  ],
+  "url": "https://github.com/DreiVolker/PoD_Module.git",
+  "manifest": "",
+  "download": ""
+ }
