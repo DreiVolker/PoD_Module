@@ -3,7 +3,7 @@
    "title": "Modulo: Pact Of Dragons",   
    "description": "Módulo criado para ajudar a comunidade do Pact of Dragons",   
    "author": "DreiVolker",
-   "version": "1.0.0",
+   "version": "1.2.0",
    "minimumCoreVersion": "",
    "compatibleCoreVersion": "",
    "scripts": [
@@ -82,6 +82,6 @@
     }
   ],
   "url": "https://github.com/DreiVolker/PoD_Module.git",
-  "manifest": "",
-  "download": ""
+  "manifest": "https://github.com/DreiVolker/PoD_Module/releases/download/0.2.0/module.json",
+  "download": "https://github.com/DreiVolker/PoD_Module/releases/download/0.2.0/Pact_of_Dragons_Module.zip"
  }
